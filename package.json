@@ -1,0 +1,22 @@
+{
+  "name": "n3d-webgl",
+  "version": "0.0.1",
+  "description": "Setup a WebGL context.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/joates/n3d-webgl.git"
+  },
+  "keywords": [
+    "n3d",
+    "webgl",
+    "threejs"
+  ],
+  "dependencies": {
+    "domready": "^1.0.5",
+    "raf-stream": "^2.0.0",
+    "n3d-threejs": "^67.0.0"
+  },
+  "main": "webgl.js",
+  "author": "joates (http://joat.es)",
+  "license": "MIT"
+}
